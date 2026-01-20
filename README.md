@@ -4,8 +4,6 @@
 
 
 VaultCLI adalah **aplikasi password manager berbasis Command Line Interface (CLI)** yang aman dan ringan, dibangun menggunakan **Python** dengan fokus pada **keamanan, enkripsi, dan usability**.  
-Aplikasi ini dirancang sebagai **proyek portofolio cybersecurity / backend engineer**.
-
 ---
 
 ## ✨ Fitur Utama
