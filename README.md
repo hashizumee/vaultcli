@@ -52,6 +52,7 @@ VaultCLI adalah **aplikasi password manager berbasis Command Line Interface (CLI
 ```bash
 pip install cryptography pyperclip
 
-```
-python vaultcli.py
+## 📦 Dependencies
 
+```bash
+pip install cryptography pyperclip
